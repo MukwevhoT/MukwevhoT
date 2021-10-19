@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MukwevhoT
-- 👀 I’m interested in software enineering and mathematics
+- 👀 I’m interested in software engineering and mathematics
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on machine learning projects
 
