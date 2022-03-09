@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @MukwevhoT
-- 👀 I’m interested in software engineering and mathematics
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on machine learning projects
+-Welcome to my github
 
 <!---
 MukwevhoT/MukwevhoT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
